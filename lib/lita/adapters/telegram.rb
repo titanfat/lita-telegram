@@ -1,3 +1,5 @@
+require 'telegram/bot'
+
 module Lita
   module Adapters
     class Telegram < Adapter
